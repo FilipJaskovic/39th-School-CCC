@@ -1,13 +1,10 @@
 file = open("./level1_5.in", "r")
 contents = file.read()
 
-# Split the input string by newline character
 lines = contents.split("\n")
 
-# Extract the first two numbers
 first_three_numbers = [int(lines[0]), int(lines[1]), int(lines[2])]
 
-# Extract the list of numbers
 list_of_numbers = []
 for line in lines[3:-1]:
     numbers = list(map(int, line.split()))
@@ -25,5 +22,4 @@ for currency in list_of_numbers:
       break
 
 with open("output5.txt", "w") as file:
-  # Write the string to the file
   file.write(out)
