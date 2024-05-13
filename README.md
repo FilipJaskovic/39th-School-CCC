@@ -36,22 +36,7 @@ The repository contains Python scripts designed to solve complex numerical probl
 
 ---
 
-## 📦 Features
 
-|    | Feature            | Description                                                                                                        |
-|----|--------------------|--------------------------------------------------------------------------------------------------------------------|
-| ⚙️ | **Architecture**   | The repository employs a procedural programming style typical in small-scale Python scripts focused on specific computational tasks.|
-| 📄 | **Documentation**  | Documentation within the codebase appears to be minimal, with limited inline comments explaining the logic in each script.|
-| 🔗 | **Dependencies**   | The scripts are built with Python and self-contained logic mostly dependent on standard Python libraries, such as `sys` and `os`.|
-| 🧩 | **Modularity**     | The system consists of individual, independent Python scripts each handling different tasks; modularity is informal but present.|
-| 🧪 | **Testing**        | There's no evidence of formal testing strategies or frameworks in place, suggesting that testing may be manual or minimal.|
-| ⚡️  | **Performance**    | Performance considerations are inferred through efficient algorithms, such as dynamic programming for optimization tasks.|
-| 🔐 | **Security**       | Security is not a primary focus in the codebase with minimal to no security measures evident in the scripts.|
-| 🔀 | **Version Control**| The use of GitHub suggests some version control; however, details on branching or commit strategies are not visible.|
-| 🔌 | **Integrations**   | Limited to internal script integrations, there are no clear integrations with external APIs or systems.|
-| 📶 | **Scalability**    | The scripts do not contain explicit scalability mechanisms and likely handle limited data volumes as per their current design.|
-
----
 
 
 ## 📂 Repository Structure
