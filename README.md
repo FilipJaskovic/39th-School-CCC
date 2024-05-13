@@ -102,7 +102,6 @@ python main.py
 Contributions are welcome! Here are several ways you can contribute:
 
 - **[Submit Pull Requests](https://github.com/FilipJaskovic/39th-School-CCC/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-- **[Join the Discussions](https://github.com/FilipJaskovic/39th-School-CCC/discussions)**: Share your insights, provide feedback, or ask questions.
 - **[Report Issues](https://github.com/FilipJaskovic/39th-School-CCC/issues)**: Submit bugs found or log feature requests for FILIPJASKOVIC.
 
 #### *Contributing Guidelines*
