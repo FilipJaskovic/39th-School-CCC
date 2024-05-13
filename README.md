@@ -70,15 +70,6 @@ The repository contains Python scripts designed to solve complex numerical probl
 
 ## 🚀 Getting Started
 
-***Dependencies***
-
-Please ensure you have the following dependencies installed on your system:
-
-`- ℹ️ Dependency 1`
-
-`- ℹ️ Dependency 2`
-
-`- ℹ️ ...`
 
 ### 🔧 Installation
 
