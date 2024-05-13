@@ -3,8 +3,7 @@
 <!-- <img src="CCC-Logo.png" height="150" /> -->
 <img src="CCC-icon.svg" height="150" />
 <br>39TH-SCHOOL-CCC</h1>
-<h3>◦ Crafting Code with Class at 39th CCC!</h3>
-<h3>◦ Developed with the software and tools below.</h3>
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python" />
